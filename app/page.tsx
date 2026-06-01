@@ -17,8 +17,8 @@ export default function Home() {
           </p>
           <div className="flex gap-4 mt-6 text-sm">
             <a href="mailto:anish_dara@berkeley.edu" className="text-zinc-400 hover:text-white">Email</a>
-            <a href="https://github.com/YOURUSERNAME" className="text-zinc-400 hover:text-white">GitHub</a>
-            <a href="https://linkedin.com/in/YOURUSERNAME" className="text-zinc-400 hover:text-white">LinkedIn</a>
+            <a href="https://github.com/anish-dara/" className="text-zinc-400 hover:text-white">GitHub</a>
+            <a href="https://linkedin.com/in/anish-dara/" className="text-zinc-400 hover:text-white">LinkedIn</a>
             <a href="/resume.pdf" className="text-zinc-400 hover:text-white">Resume</a>
           </div>
         </section>
